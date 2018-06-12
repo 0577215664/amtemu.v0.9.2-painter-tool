@@ -17,7 +17,7 @@
 
 ###### 1 下载amtemu.v0.9.2-painter.zip，解压缩并运行它，点击install
 
-> [amtemu.v0.9.2-painter.zip](https://sourceforge.net/projects/dzet-tool-for-quick/files/amtemu.v0.9.2-painter.zip/download)
+> [amtemu.v0.9.2-painter.zip](https://github.com/dzet-tool-for-quick/amtemu.v0.9.2-painter-tool/raw/master/file/amtemu.v0.9.2-painter.zip)
 
 
 <img src="https://raw.githubusercontent.com/dzet-tool-for-quick/amtemu.v0.9.2-painter-tool/master/img/adobe2.png" width="400px" />
