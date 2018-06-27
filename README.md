@@ -6,6 +6,7 @@
 
 > https://helpx.adobe.com/cn/acrobat/kb/acrobat-dc-downloads.html
 
+> https://helpx.adobe.com/cn/acrobat/kb/acrobat-downloads.html
 
 <img src="https://raw.githubusercontent.com/dzet-tool-for-quick/amtemu.v0.9.2-painter-tool/master/img/adobe1.png" width="400px" />
 
